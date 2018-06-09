@@ -32,4 +32,4 @@ There are the projects part of RegServ:
 More projects will be added to the table as they are created.
 
 ## Testing
-If you require a Nominet or CentralNIC Test Registrar Account for testing purposes, please open an issue with your email address and we will create one for you.
+If you require a CentralNIC Test Registrar Account for testing purposes, please open an issue with your email address and we will create one for you.
