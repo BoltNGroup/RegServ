@@ -2,8 +2,8 @@
 RegServ is an open source registrar ecosystem used and developed by the [BoltN Group](https://boltn.uk "BoltN Group").
 
 ## Features
-- [ ] Domain Availability Check
-- [ ] Premium Domain Detection
+- [x] Domain Availability Check
+- [x] Premium Domain Detection
 - [ ] Handle Creation
 - [ ] Handle Updating
 - [ ] Handle Deletion
@@ -15,7 +15,8 @@ RegServ is an open source registrar ecosystem used and developed by the [BoltN G
 - [ ] GLUE Record Deletion
 - [ ] GDPR Masking
 - [ ] Contact Verification
-- [ ] Whois
+- [ ] Whois Server
+- [ ] Whois Querying
 - [ ] DNS Management
 
 ## Interfaces
