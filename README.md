@@ -10,6 +10,9 @@ RegServ is an open source registrar ecosystem used and developed by the [BoltN G
 - [ ] Domain Registration
 - [ ] Domain Updating
 - [ ] Domain Deletion
+- [ ] GLUE Record Creation
+- [ ] GLUE Record Updating
+- [ ] GLUE Record Deletion
 - [ ] GDPR Masking
 - [ ] Contact Verification
 - [ ] Whois
