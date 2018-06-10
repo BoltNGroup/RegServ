@@ -24,10 +24,11 @@ RegServ is an open source registrar ecosystem used and developed by the [BoltN G
 ## Projects
 There are the projects part of RegServ:
 
-| Project  | Forked from  | Description  |
-| ------------ | ------------ | ------------ |
-| [go-epp](https://github.com/BoltNGroup/go-epp "go-epp")  | [domainr/epp](https://github.com/domainr/epp "domainr/epp")  | EPP Client Library for Go  |
-| [whoisd](https://github.com/BoltNGroup/whoisd "whoisd")  | [openprovider/whoisd](https://github.com/openprovider/whoisd "openprovider/whoisd") | Whois Server |
+| Project  | Forked from  | Description  | Language |
+| ------------ | ------------ | ------------ | ------------ |
+| [go-epp](https://github.com/BoltNGroup/go-epp "go-epp")  | [domainr/epp](https://github.com/domainr/epp "domainr/epp")  | EPP Client Library for Go  | Go |
+| [whoisd](https://github.com/BoltNGroup/whoisd "whoisd")  | [openprovider/whoisd](https://github.com/openprovider/whoisd "openprovider/whoisd") | Whois Server | Go |
+| [regserv-api](https://github.com/BoltNGroup/regserv-api "regserv-api")  | N/A | API | Go |
 
 More projects will be added to the table as they are created.
 
